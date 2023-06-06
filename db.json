@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "Subham Kandari",
+      "email": "kandarisubham72@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "tracker": [
+    {
+      "email": "kandarisubham72@gmail.com",
+      "types": "Income",
+      "income": "Gifts",
+      "amount": 1000,
+      "dates": "2023-06-08",
+      "id": 2
+    },
+    {
+      "email": "kandarisubham72@gmail.com",
+      "types": "Income",
+      "income": "Refunds",
+      "amount": 100,
+      "dates": "2023-06-08",
+      "id": 3
+    },
+    {
+      "email": "kandarisubham72@gmail.com",
+      "types": "Expense",
+      "expense": "Food&Drinks ",
+      "amount": 500,
+      "dates": "2023-06-08",
+      "id": 5
+    },
+    {
+      "email": "kandarisubham72@gmail.com",
+      "types": "Expense",
+      "expense": "Lifestyle",
+      "amount": 2500,
+      "dates": "2023-06-08",
+      "id": 6
+    },
+    {
+      "email": "kandarisubham72@gmail.com",
+      "types": "Income",
+      "income": "Salary ",
+      "amount": 10000,
+      "dates": "2023-06-24",
+      "id": 7
+    }
+  ]
+}
